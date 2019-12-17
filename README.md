@@ -1,2 +1,2 @@
 # osu_cse
-Coding project from undergrad
+Coding projects from undergrad
